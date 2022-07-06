@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc3ab334-20cc-4f71-afdc-9d3a11ce5604" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Final Project/FinalProjectBus/src/main/java/com/qathrin/bus/controller/ui/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final Project/FinalProjectBus/src/main/java/com/qathrin/bus/controller/ui/DashboardController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment1/Latihan1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment1/Latihan1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment1/Latihan2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment1/Latihan2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment1/Latihan3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment1/Latihan3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment1/Latihan4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment1/Latihan4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment1/Latihan5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment1/Latihan5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi1/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi1/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi1/Latihan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi1/Latihan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi1/Latihan1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi1/Latihan1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi1/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi1/Switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi1/SwitchNew.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi1/SwitchNew.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi2/CekGraduation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi2/CekGraduation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi2/Hadiah.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi2/Hadiah.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi2/HitungGrade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi2/HitungGrade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi2/Kasir.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi2/Kasir.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi2/LampuLaluLintas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi2/LampuLaluLintas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi2/OperatorAritmatika.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi2/OperatorAritmatika.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi2/OperatorPembanding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi2/OperatorPembanding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi2/OperatorPenugasan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi2/OperatorPenugasan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi2/OperatorTenary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi2/OperatorTenary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi3/Latihan1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi3/Latihan1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi3/Latihan1a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi3/Latihan1a.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi3/Latihan1b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi3/Latihan1b.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi3/Latihan2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi3/Latihan2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi3/Latihan3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi3/Latihan3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi3/NestedLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi3/NestedLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi3/PerulanganForEach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi3/PerulanganForEach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi3/PerulanganWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi3/PerulanganWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi4/ArrayLooping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi4/ArrayLooping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi4/ArrayLoopingForEach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi4/ArrayLoopingForEach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi4/ArrayMultidimensi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi4/ArrayMultidimensi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi4/DeklarasiArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi4/DeklarasiArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi4/node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi4/tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi4/tree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi5/AnakUmur1Tahun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi5/Cetak.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi5/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi5/Induk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi5/InterfaceAnakUmur1Tahun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi5/Tampil2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi5/latihan/BangunDatar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi5/latihan/Lingkaran.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi5/latihan/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi5/latihan/Persegi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi5/latihan/PersegiPanjang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi5/latihan/Segitiga.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi5/makanan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi5/nilai.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi5/restoran.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi5/tampil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi6/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi7/Binary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi7/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi7/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/src/main/java/com/learning/thread/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/src/main/java/com/learning/thread/NumberGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/src/main/java/com/learning/thread/ThreadHello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/src/main/java/com/learning/thread/ThreadNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/src/main/java/com/learning/thread/ThreadWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/src/test/java/com/learning/thread/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/src/test/java/com/learning/thread/ThreadHelloTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/src/test/java/com/learning/thread/ThreadNumberTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/src/test/java/com/learning/thread/ThreadWorldTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/target/classes/com/learning/thread/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/target/classes/com/learning/thread/NumberGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/target/classes/com/learning/thread/ThreadHello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/target/classes/com/learning/thread/ThreadNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/target/classes/com/learning/thread/ThreadWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/target/surefire-reports/TEST-com.learning.thread.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/target/surefire-reports/TEST-com.learning.thread.ThreadHelloTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/target/surefire-reports/TEST-com.learning.thread.ThreadWorldTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/target/surefire-reports/com.learning.thread.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/target/surefire-reports/com.learning.thread.ThreadHelloTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/target/surefire-reports/com.learning.thread.ThreadWorldTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/target/test-classes/com/learning/thread/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/target/test-classes/com/learning/thread/ThreadHelloTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/target/test-classes/com/learning/thread/ThreadNumberTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi8/DemoThread/target/test-classes/com/learning/thread/ThreadWorldTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/DomParser/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/DomParser/src/main/java/com/learning/DomParser/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/DomParser/src/main/java/com/learning/DomParser/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/DomParser/src/main/java/com/learning/DomParser/ParseKnownXMLStructure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/DomParser/src/main/java/com/learning/DomParser/ReadXmlAlexaApi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/DomParser/src/resources/employees.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/DomParser/src/test/java/com/learning/DomParser/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/DomParser/target/DomParser-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/DomParser/target/classes/com/learning/DomParser/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/DomParser/target/classes/main/java/com/learning/DomParser/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/DomParser/target/classes/main/java/com/learning/DomParser/ParseKnownXMLStructure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/DomParser/target/classes/main/java/com/learning/DomParser/ReadXmlAlexaApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/DomParser/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/DomParser/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/DomParser/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/DomParser/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/DomParser/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/DomParser/target/surefire-reports/TEST-com.learning.DomParser.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/DomParser/target/surefire-reports/com.learning.DomParser.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/DomParser/target/test-classes/com/learning/DomParser/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/src/main/java/com/learning/SAXChallenge/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/src/main/java/com/learning/SAXChallenge/JavaReadXmlSaxEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/src/main/java/com/learning/SAXChallenge/MyHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/src/main/java/com/learning/SAXChallenge/MyRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/src/main/java/com/learning/SAXChallenge/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/src/resources/users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/src/test/java/com/learning/SAXChallenge/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/target/SAXChallenge-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/target/classes/com/learning/SAXChallenge/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/target/classes/main/java/com/learning/SAXChallenge/JavaReadXmlSaxEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/target/classes/main/java/com/learning/SAXChallenge/MyHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/target/classes/main/java/com/learning/SAXChallenge/MyRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/target/classes/main/java/com/learning/SAXChallenge/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/target/surefire-reports/TEST-com.learning.SAXChallenge.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/target/surefire-reports/com.learning.SAXChallenge.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/SAXChallenge/target/test-classes/com/learning/SAXChallenge/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/eclipse-space/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/eclipse-space/DemoSpringHello/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/eclipse-space/DemoSpringHello/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/eclipse-space/DemoSpringHello/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/eclipse-space/DemoSpringHello/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/eclipse-space/DemoSpringHello/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/eclipse-space/DemoSpringHello/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/eclipse-space/DemoSpringHello/src/main/java/com/example/demo/DemoSpringHelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/eclipse-space/DemoSpringHello/src/main/java/com/example/demo/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/eclipse-space/DemoSpringHello/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/eclipse-space/DemoSpringHello/src/test/java/com/example/demo/DemoSpringHelloApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/src/main/java/id/co/btdp/parser/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/src/main/java/id/co/btdp/parser/JavaReadXmlSaxEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/src/main/java/id/co/btdp/parser/MyHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/src/main/java/id/co/btdp/parser/MyRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/src/main/java/id/co/btdp/parser/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/src/main/resources/users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/src/test/java/id/co/btdp/parser/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/target/classes/id/co/btdp/parser/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/target/classes/id/co/btdp/parser/JavaReadXmlSaxEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/target/classes/id/co/btdp/parser/MyHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/target/classes/id/co/btdp/parser/MyRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/target/classes/id/co/btdp/parser/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/target/classes/users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/target/parser-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/target/surefire-reports/TEST-id.co.btdp.parser.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/target/surefire-reports/id.co.btdp.parser.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sesi9/parser/target/test-classes/id/co/btdp/parser/AppTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2BTwgT7jN3w9vcPVVaF2zNlrSfN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/BTDP/Java Spring Boot/Sesi 16"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc3ab334-20cc-4f71-afdc-9d3a11ce5604" name="Changes" comment="" />
+      <created>1656943493374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656943493374</updated>
+    </task>
+    <servers />
+  </component>
+</project>
